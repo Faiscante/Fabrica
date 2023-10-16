@@ -1,0 +1,7 @@
+C:\Users\aluga.com\Desktop\MK\Desafio Junior\DesafioJuniorFabrica\DesafioJuniorFabrica\bin\Debug\DesafioJuniorFabrica.exe.config
+C:\Users\aluga.com\Desktop\MK\Desafio Junior\DesafioJuniorFabrica\DesafioJuniorFabrica\bin\Debug\DesafioJuniorFabrica.exe
+C:\Users\aluga.com\Desktop\MK\Desafio Junior\DesafioJuniorFabrica\DesafioJuniorFabrica\bin\Debug\DesafioJuniorFabrica.pdb
+C:\Users\aluga.com\Desktop\MK\Desafio Junior\DesafioJuniorFabrica\DesafioJuniorFabrica\obj\Debug\DesafioJuniorFabrica.csproj.AssemblyReference.cache
+C:\Users\aluga.com\Desktop\MK\Desafio Junior\DesafioJuniorFabrica\DesafioJuniorFabrica\obj\Debug\DesafioJuniorFabrica.csproj.CoreCompileInputs.cache
+C:\Users\aluga.com\Desktop\MK\Desafio Junior\DesafioJuniorFabrica\DesafioJuniorFabrica\obj\Debug\DesafioJuniorFabrica.exe
+C:\Users\aluga.com\Desktop\MK\Desafio Junior\DesafioJuniorFabrica\DesafioJuniorFabrica\obj\Debug\DesafioJuniorFabrica.pdb
